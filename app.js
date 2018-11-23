@@ -6,7 +6,7 @@ const app = express();
 app.set('view engine', 'ejs');
 
 //middlewares
-app.use(express.static('pubcdlic'));
+app.use(express.static('public'));
 
 
 //routes

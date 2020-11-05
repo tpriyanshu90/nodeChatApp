@@ -1,6 +1,7 @@
 $(function(){
    	//make connection
-	var socket = io.connect('https://infinite-journey-83115.herokuapp.com')
+	//enter the host url here
+	var socket = io.connect('localhost:3000')
     //buttons and inputs
 	var message = $("#message")
 	var username = $("#username")

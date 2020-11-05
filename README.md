@@ -1,6 +1,6 @@
 # nodeChatApp
 A realtime chat app made using node.js (express) and socket.io. 
-'''Anonymous users can talk here with just a click.'''
+```Anonymous users can talk here with just a click.```
 
 
 # Install dependencies
@@ -9,7 +9,7 @@ run `npm i` in nodeChatApp directory:
 
 # Deployment
 
-run `PORT=3000 npm run start` in the main directory
+run `PORT=3000 npm start` in the main directory
 
 # Browse
 
